@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://shahbaz:shahbaz040@ds217438.mlab.com:17438/url-shortner",
+    "baseURL": "http://localhost:1000"
+}

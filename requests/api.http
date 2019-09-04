@@ -1,0 +1,6 @@
+POST http://localhost:1000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longURL": "https://www.amazon.in/b?ie=UTF8&node=16182118031&s=review-rank&pf_rd_p=43233fbc-f4c6-4e82-b577-08b548feeab3&pf_rd_r=K2K0E8Y8FQPC0WMXC73S"
+}
